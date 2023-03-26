@@ -1,7 +1,7 @@
 # HAMOYE Internship
  Hamoye Internship Stages' Code
  
-## Hamoye-Stage-A-code
+### Hamoye-Stage-A-code
 Tunde Egunjobi
 
 ID: 1572882f19c1f000
@@ -13,7 +13,7 @@ Answers were provided for 10 different questions as required
 
 The dataset link https://github.com/HamoyeHQ/HDSC-Introduction-to-Python-for-machine-learning
 
-## HAMOYE-STAGE-B-CODE
+### HAMOYE-STAGE-B-CODE
 #### Regression in Machine Learning Tag along code
 
 This repository houses the tag-along code for Stage B
@@ -86,7 +86,7 @@ rv1, Random variable 1, nondimensional
 rv2, Random variable 2, nondimensional
 
 
-## Hamoye-STAGE-C-Code
+### Hamoye-STAGE-C-Code
 #### Classification In Machine Learning
 Stage C tag along code.
 
@@ -95,8 +95,8 @@ Link for the dataset: http://bit.ly/HDSC-ML-Classiification-Dataset
 
 
 
-# HAMOYE-STAGE-D-CODE
-## Neural Network, Image Recognition &amp; Object Detection
+### HAMOYE-STAGE-D-CODE
+#### Neural Network, Image Recognition &amp; Object Detection
 
 
 The Repository contains the notebook used to build artificial intelligence algorithms to label satellite image chips with different atmospheric conditions and the different classes of land cover/land use.  For this Multi-class Multi-Label problem, some of the labels are from the following categories: Cloud Cover (clear, partly, cloudy, haze), Primary RainForest, Water (rivers, lakes), Habitation (large city, small homes), Agriculture, Roads etc. The algorithms from this project will enable us to understand where, how and why deforestation happens.
@@ -104,7 +104,7 @@ The Repository contains the notebook used to build artificial intelligence algor
 it is a competition in Kaggle and the leaderboard score was uploaded along with it.
 
 
-## HAMOYE-STAGE-E-CODE
+### HAMOYE-STAGE-E-CODE
 #### Practical Time Series Analysis & Forecast
 
 The archive contains 92,016 measurements of electricity data gathered between September 2010 and February 2021.
